@@ -81,7 +81,7 @@ A more detailed [Quickstart](https://docs.docsgpt.cloud/quickstart) is available
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/arc53/DocsGPT.git
+   git clone https://github.com/MeAkash77/EnterpriseGPT-Multi-Agent-Enterprise-Knowledge-Intelligence-Platform.git
    cd DocsGPT
    ```
 
@@ -134,30 +134,6 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for information abou
 
 - Scripts - Miscellaneous scripts.
 
-## Code Of Conduct
-
-We as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Please refer to the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file for more information about contributing.
-
-## Many Thanks To Our Contributors⚡
-
-<a href="https://github.com/arc53/DocsGPT/graphs/contributors" alt="View Contributors">
-  <img src="https://contrib.rocks/image?repo=arc53/DocsGPT" alt="Contributors" />
-</a>
-
 ## License
 
 The source code license is [MIT](https://opensource.org/license/mit/), as described in the [LICENSE](LICENSE) file.
-
-## This project is supported by:
-
-<p>
-  <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=DocsGPT">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-</p>
-<p>
-  <a href="https://get.neon.com/docsgpt">
-    <img width="201" alt="color" src="https://github.com/user-attachments/assets/7d9813b7-0e6d-403f-b5af-68af066b326f" />
-  </a>
-  
-</p>
