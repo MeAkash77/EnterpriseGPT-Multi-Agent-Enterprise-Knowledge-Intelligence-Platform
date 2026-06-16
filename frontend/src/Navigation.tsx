@@ -655,7 +655,7 @@ export default function Navigation({ navOpen, setNavOpen }: NavigationProps) {
               <div className="flex items-center gap-1 pr-4">
                 <NavLink
                   target="_blank"
-                  to={'https://discord.gg/vN7YFfdMpj'}
+                  to={'https://github.com/MeAkash77/EnterpriseGPT-Multi-Agent-Enterprise-Knowledge-Intelligence-Platform'}
                   className={'hover:bg-sidebar-accent rounded-full'}
                 >
                   <img
@@ -668,7 +668,7 @@ export default function Navigation({ navOpen, setNavOpen }: NavigationProps) {
                 </NavLink>
                 <NavLink
                   target="_blank"
-                  to={'https://x.com/docsgptai'}
+                  to={'https://github.com/MeAkash77/EnterpriseGPT-Multi-Agent-Enterprise-Knowledge-Intelligence-Platform'}
                   className={'hover:bg-sidebar-accent rounded-full'}
                 >
                   <img
@@ -681,7 +681,7 @@ export default function Navigation({ navOpen, setNavOpen }: NavigationProps) {
                 </NavLink>
                 <NavLink
                   target="_blank"
-                  to={'https://github.com/arc53/docsgpt'}
+                  to={'https://github.com/MeAkash77/EnterpriseGPT-Multi-Agent-Enterprise-Knowledge-Intelligence-Platform'}
                   className={'hover:bg-sidebar-accent rounded-full'}
                 >
                   <img
